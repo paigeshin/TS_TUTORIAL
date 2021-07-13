@@ -138,3 +138,35 @@ sendRequest("Send this!", (response) => {
 [Abstract Class ](https://www.notion.so/Abstract-Class-303cb1cd474640938bb2915b9bed5a4e)
 
 [Singletons, Private Constructor](https://www.notion.so/Singletons-Private-Constructor-758d0a5e306c4bb4b9cef042f353a831)
+
+[Interface](https://www.notion.so/Interface-899fe3983c6a445a9b499c82881c88fe)
+
+[Why interfaces?](https://www.notion.so/Why-interfaces-ab970bcb527046ea883eee1f288afa4a)
+
+[readonly properties for interface](https://www.notion.so/readonly-properties-for-interface-60a3c7268bc043da80b01e23da0e58e4)
+
+[Extending Interfaces ](https://www.notion.so/Extending-Interfaces-d967fc3a8b4640529db5879b3a310365)
+
+[Interfaces as Function Types](https://www.notion.so/Interfaces-as-Function-Types-1b0b6898eb134fc3a3cf24f72026957c)
+
+[Optional Parameters](https://www.notion.so/Optional-Parameters-d324f67321464ca1aa32a341a2dbbe4d)
+
+# Section 6 - Advanced Typing Concepts
+
+[Advanced Types](https://www.notion.so/Advanced-Types-b68259cbad1e43e5b364a5578d76af3c)
+
+[Intersection Types](https://www.notion.so/Intersection-Types-7075be969b8042c4a336661098b7e6f2)
+
+[Type Guard](https://www.notion.so/Type-Guard-f10d4dc24f2e4b28bb204aa7a401c999)
+
+[Discriminated Unions](https://www.notion.so/Discriminated-Unions-1bc4e18b3e7042be80f8356344b9bd28)
+
+[Type Casting](https://www.notion.so/Type-Casting-ade2f04b2de84b05af02516e330f3c36)
+
+[Index Properties, set value to interface](https://www.notion.so/Index-Properties-set-value-to-interface-7c3e74a1395941449ded727832b0e4e0)
+
+[Function Overloads](https://www.notion.so/Function-Overloads-faaaca54bd4c43e0b4ad59bacf7ec433)
+
+[Optional Chaining](https://www.notion.so/Optional-Chaining-76ff40d30027424597be5b9fa7969a11)
+
+[Nullish Coalescing](https://www.notion.so/Nullish-Coalescing-af68b3eb0a794fa5bea4300840a9d7d1)

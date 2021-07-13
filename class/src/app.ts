@@ -1,28 +1,22 @@
-class SingleTonClass {
-  private static instance: SingleTonClass;
+/** You can't assign value **/
 
-  private constructor(private name: string, private address: string) {
-    console.log(`${this.name}, ${this.address}`);
-  }
+interface Star {
+  readonly name?: string; // Optional, but it doesn't force.
+}
 
-  static getInstance(): SingleTonClass {
-    if (SingleTonClass.instance) {
-      return this.instance;
+interface Singer extends Star {
+  song: string;
+}
+
+class Person implements Star {
+  name?: string;
+
+  constructor(name?: string) {
+    if (name) {
+      this.name = name;
+      console.log(`${name} is initialized`);
     }
-    this.instance = new SingleTonClass("hello", "world");
-    return this.instance;
-  }
-
-  printUser() {
-    console.log(`${this.name}, ${this.address} has been created`);
   }
 }
 
-const singleton = SingleTonClass.getInstance();
-const singleton2 = SingleTonClass.getInstance();
-
-if (singleton == singleton2) {
-  console.log("I'm the same instance!!!");
-  singleton.printUser();
-  singleton2.printUser();
-}
+new Person();
