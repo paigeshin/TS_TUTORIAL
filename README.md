@@ -6,6 +6,10 @@
 
 [TS Checklists](https://www.notion.so/TS-Checklists-c4eb45dabc8546f8af946b7e3ddcbc3a)
 
+# TS Library
+
+- [https://github.com/typestack/class-validator](https://github.com/typestack/class-validator)
+
 # Templates
 
 [Singleton Snippet](https://www.notion.so/Singleton-Snippet-60df1d4605124856880fdd8cda9f1808)
@@ -170,3 +174,61 @@ sendRequest("Send this!", (response) => {
 [Optional Chaining](https://www.notion.so/Optional-Chaining-76ff40d30027424597be5b9fa7969a11)
 
 [Nullish Coalescing](https://www.notion.so/Nullish-Coalescing-af68b3eb0a794fa5bea4300840a9d7d1)
+
+# Section 7 - Generics
+
+[Generic Concepts](https://www.notion.so/Generic-Concepts-d65cf77be21f4cd2bab8c23f2578cbcf)
+
+[Generic Examples](https://www.notion.so/Generic-Examples-b19c4673cb3f434696eb343b8a67a865)
+
+[Create Generic Function](https://www.notion.so/Create-Generic-Function-f0136b1b5176468a92b50dabee96e8ea)
+
+[Generic Constraints with "extends" keyword ](https://www.notion.so/Generic-Constraints-with-extends-keyword-ced8b9b8dd394fdba0a762ec7f31952c)
+
+[Generic with interface](https://www.notion.so/Generic-with-interface-104259e9346a449a9b491a296aa10aae)
+
+[The "keyof" Constraint](https://www.notion.so/The-keyof-Constraint-cf94fc9d9a614d00acd8b5f868038551)
+
+[Generic Classes ](https://www.notion.so/Generic-Classes-0693dde69ca74b758a1065b42b4e01be)
+
+[Generic Utility Types](https://www.notion.so/Generic-Utility-Types-58700ae5dccc48ec8636882b8684938a)
+
+# Section 8 - Decorator
+
+- Decorator is especially useful on meta-programming
+
+### Class Decorator
+
+[Basic Decorator, No Params ](https://www.notion.so/Basic-Decorator-No-Params-137d5ee2a37743c29ebe0b8bb5e277d2)
+
+[Decorator Factory](https://www.notion.so/Decorator-Factory-997771cbf8b04740ac4775419354b0e4)
+
+[Decorator with parameter](https://www.notion.so/Decorator-with-parameter-5ab591adfc07424d8b4050deecbbc831)
+
+[Useful Decorator example (render something on the screen)](https://www.notion.so/Useful-Decorator-example-render-something-on-the-screen-bd447ce579b746fea81d672f93873fed)
+
+[Multiple Decorator](https://www.notion.so/Multiple-Decorator-4f9701b79bf84782848392a82caef30f)
+
+### Property Decorator
+
+[Diving into Property Decorators](https://www.notion.so/Diving-into-Property-Decorators-cf899447fb9d40a984eb94327c9a0fb4)
+
+[Accessor & Parameter for Getter & Setter Decorators](https://www.notion.so/Accessor-Parameter-for-Getter-Setter-Decorators-aafa8bf1d47a4d53aa79e2cf19ca41d6)
+
+[Method Decorator](https://www.notion.so/Method-Decorator-c1645c5d053543e7a112af6a738c1a49)
+
+[Method Parameter Decorator](https://www.notion.so/Method-Parameter-Decorator-6325c84784f14a3c8be5366ca223cba5)
+
+### All decorators combined
+
+[All combined decorators](https://www.notion.so/All-combined-decorators-663f7cb1f0824d06bf4e5cd67a50e169)
+
+### Decorators in detail
+
+[When decorator runs?](https://www.notion.so/When-decorator-runs-dbaa03ab3f8b4c508712ab0a4eeeee42)
+
+[Returning (and changing) a Class in a Class Decorator ](https://www.notion.so/Returning-and-changing-a-Class-in-a-Class-Decorator-94beea7bb3124a7390ce076a89fcccaa)
+
+[Practical Example, Autobind Decorator](https://www.notion.so/Practical-Example-Autobind-Decorator-a0507e1f22134fd48f50524ca3109be0)
+
+[Validation With Decorators ](https://www.notion.so/Validation-With-Decorators-53d3332d0c5d43578bbbf005edbe7a13)
