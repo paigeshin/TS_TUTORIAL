@@ -264,3 +264,19 @@ sendRequest("Send this!", (response) => {
 [webpack configuration for development ](https://www.notion.so/webpack-configuration-for-development-38c250e0260c44a79c9d3d46b3fa6909)
 
 [webpack for production](https://www.notion.so/webpack-for-production-ecbea3bff7fd47acb80c382fd9f570f1)
+
+[webpack starter project template](https://github.com/paigeshin/TS_TUTORIAL/tree/master/webpack-starter-project-kit)
+
+# Section 12 - 3rd Party Libraries & Typescript
+
+[Popular Library for Typescript & Javascript and how to install it ](https://www.notion.so/Popular-Library-for-Typescript-Javascript-and-how-to-install-it-6a4471ccf25d451ca1cdf26ff47fc2a6)
+
+[Declare keyword](https://www.notion.so/Declare-keyword-9fe7c8b32c0645ea98f44bcbf73a26a9)
+
+[Class Transformer (Library Usage) ](https://www.notion.so/Class-Transformer-Library-Usage-856025af275e48ddac347c05573895b2)
+
+[Class Validator](https://www.notion.so/Class-Validator-b364efea0a7947ef844a59bd3f18ee20)
+
+# Section 13 - Google Map with ts
+
+[Google Map Project](https://www.notion.so/Google-Map-Project-5d5b9c717dce44a8b077c483af7c3137)
