@@ -16,6 +16,8 @@
 
 [My Compiler Settings](https://www.notion.so/My-Compiler-Settings-900f7a4448ad4ca8a5d90a85b77b321a)
 
+[Name Space Compile Options](https://www.notion.so/Name-Space-Compile-Options-df7159fd12074cbd9c20f182d6810d4f)
+
 # TS init
 
 ```bash
@@ -232,3 +234,23 @@ sendRequest("Send this!", (response) => {
 [Practical Example, Autobind Decorator](https://www.notion.so/Practical-Example-Autobind-Decorator-a0507e1f22134fd48f50524ca3109be0)
 
 [Validation With Decorators ](https://www.notion.so/Validation-With-Decorators-53d3332d0c5d43578bbbf005edbe7a13)
+
+# Section 9 - in actions
+
+[Interface as parameters](https://www.notion.so/Interface-as-parameters-b6b7c65986b946309bed8a0d5d46fee7)
+
+[Autobind Decorator](https://www.notion.so/Autobind-Decorator-5a642e74ed804b74be8666034df39268)
+
+[Typescript in practice](https://www.notion.so/Typescript-in-practice-39a97cae10734ea88f9baa0395ad93bd)
+
+# Section 10 - Modules & Namespaces
+
+[Writing Module Code](https://www.notion.so/Writing-Module-Code-c9090785d7a64edbbb2c6e0918409c65)
+
+[Working with Namespcaces ](https://www.notion.so/Working-with-Namespcaces-3db6458858f34d75a8604cd89a37bb97)
+
+[Project Example with Namespaces](https://github.com/paigeshin/TS_TUTORIAL/tree/master/mini_project_with_namespace)
+
+[typescript with modules without framework](https://www.notion.so/typescript-with-modules-without-framework-71eb3280c8bb4b72a4c67fa897a12d2e)
+
+[Using Various Import Syntax](https://www.notion.so/Using-Various-Import-Syntax-415dcfe89d4a430f88f44fcfbdc71dae)
