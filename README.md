@@ -292,3 +292,5 @@ sendRequest('Send this!', (response) => {
 [Project setup](https://www.notion.so/Project-setup-345bfb1a42104d1b93e9875237c82426)
 
 [Node-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/node_ts)
+
+[Rest API based on Interface](https://github.com/paigeshin/node-typescript-basic-REST-API-example/blob/master/src/routes/todos.ts)
