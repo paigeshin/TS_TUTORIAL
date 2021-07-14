@@ -280,3 +280,13 @@ sendRequest("Send this!", (response) => {
 # Section 13 - Google Map with ts
 
 [Google Map Project](https://www.notion.so/Google-Map-Project-5d5b9c717dce44a8b077c483af7c3137)
+
+# Section 14 - React & Typescript
+
+[Setting Up Typescript with React ](https://www.notion.so/Setting-Up-Typescript-with-React-e2a79d9e7b5e472a85fd1b37f402a1a4)
+
+[React-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/react-ts)
+
+# Section 15 - Node & Typescript
+
+[Project setup](https://www.notion.so/Project-setup-345bfb1a42104d1b93e9875237c82426)
