@@ -1,6 +1,6 @@
 # Further Subject
 
-- [ ] Debugging with Chrome & vsCode
+- [ ]  Debugging with Chrome & vsCode
 
 # TS Checklist
 
@@ -32,13 +32,13 @@ As you learned, callback functions can return something, even if the argument on
 ```tsx
 function sendRequest(data: string, cb: (response: any) => void) {
   // ... sending a request with "data"
-  return cb({ data: "Hi there!" });
+  return cb({data: 'Hi there!'});
 }
-
-sendRequest("Send this!", (response) => {
+ 
+sendRequest('Send this!', (response) => { 
   console.log(response);
   return true;
-});
+ });
 ```
 
 # Section 1 - Getting Started
@@ -290,3 +290,5 @@ sendRequest("Send this!", (response) => {
 # Section 15 - Node & Typescript
 
 [Project setup](https://www.notion.so/Project-setup-345bfb1a42104d1b93e9875237c82426)
+
+[Node-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/node_ts)
